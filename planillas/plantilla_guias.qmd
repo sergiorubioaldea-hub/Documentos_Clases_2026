@@ -1,0 +1,46 @@
+---
+title: "NOMBRE DE LA GUÍA AQUÍ"
+author: "Profesor: Sergio Rubio Aldea"
+date: ""
+format:
+  pdf:
+    geometry:
+      - top=15mm
+      - bottom=20mm
+      - left=20mm
+      - right=20mm
+    header-includes: |
+      \usepackage{fancyhdr}
+      \usepackage{graphicx}
+      \pagestyle{fancy}
+      \fancyhead[L]{\textbf{Colegio San Pedro} \\ Valle Grande}
+      \fancyhead[C]{Unidad Técnico-Pedagógica}
+      \fancyhead[R]{Asignatura: Matemática/Física}
+---
+
+**Nombre Estudiante:** _________________________________________________  
+**Curso:** ___________ | **Fecha:** ____/____/2026
+
+---
+
+**OA:** [Escribir el Objetivo de Aprendizaje aquí]
+
+**Objetivo de la Guía:** [Escribir el propósito de la actividad]
+
+---
+
+### I. Desarrollo de Contenidos
+
+Aquí puedes empezar a escribir tu guía. Como eres profe de ciencias, puedes usar LaTeX nativo:
+
+* **Ecuación de posición:** $x(t) = x_0 + v_0 t + \frac{1}{2}at^2$
+* **Cálculo de límites:** $\lim_{x \to \infty} \frac{1}{x} = 0$
+
+### II. Actividades
+
+1. Resuelva el siguiente sistema de ecuaciones:
+   $$2x + 3y = 10$$
+   $$x - y = 2$$
+
+---
+> **Nota para el colega:** Recuerda tener el archivo del logo en la carpeta `imagenes/` si decides insertarlo directamente en el cuerpo del texto.
