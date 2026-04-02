@@ -1,0 +1,17 @@
+## ⚖️ Rúbrica de Responsabilidad y Proceso (25%)
+*Esta pauta es aplicada por todos los docentes de forma transversal. Cada criterio se evalúa de 1 a 4 puntos.*
+
+| Criterio | Destacado (4 pts) | Habilitado (3 pts) | Inicial (1 pt) |
+| :--- | :--- | :--- | :--- |
+| **Registro de Firmas (Bitácora)** | Cuenta con las 11 firmas docentes que validan el trabajo realizado hora a hora. | Cuenta con 8 a 10 firmas docentes en la bitácora. | Cuenta con menos de 8 firmas o la bitácora no está consignada. |
+| **Gestión de la Carpeta** | La carpeta contiene todas las evidencias técnicas (Guías 1 a 6) ordenadas y completas. | La carpeta está presente, pero faltan 1 o 2 evidencias técnicas o están desordenadas. | La carpeta está incompleta, sucia o faltan la mayoría de las evidencias técnicas. |
+| **Desempeño de Roles** | Cada integrante (Representante, Subrogante, Secretario) cumple rigurosamente con sus funciones asignadas. | Los roles están asignados, pero se observa confusión o falta de autonomía en algunas tareas. | No existe una división de tareas clara y los integrantes no asumen sus responsabilidades. |
+| **Uso de Recursos** | Utiliza y cuida los materiales de forma óptima. | Utiliza los recursos adecuadamente, pero con desorden ocasional en el espacio de trabajo. | Hace mal uso de los materiales o herramientas digitales, poniendo en riesgo el equipo. |
+| **Puntualidad en Avances** | Cumple con la entrega del Producto Final y los hitos intermedios en los plazos establecidos. | Entrega con un retraso menor (máximo 1 día) con justificación previa. | Entrega fuera de plazo sin justificación o el trabajo es insuficiente. |
+
+---
+
+## 📈 Resumen de Calificación Final
+Para cada asignatura $n$, la nota se calcula considerando el 75% del desempeño técnico en las guías y el 25% de esta rúbrica de responsabilidad:
+
+$$Nota_{Asignatura} = (Nota\_Técnica \cdot 0,75) + (Nota\_Responsabilidad \cdot 0,25)$$
