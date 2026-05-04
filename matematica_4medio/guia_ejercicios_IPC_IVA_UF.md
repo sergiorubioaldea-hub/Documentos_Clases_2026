@@ -48,7 +48,8 @@ Un analista de datos junior recibe una oferta laboral con un sueldo nominal de *
 1. ¿Cuál será el nuevo **Sueldo Nominal** después del ajuste?.
 2. Aplique la fórmula de **Variación Real**:
    
-    $\Delta \text{Poder Adquisitivo} \approx \% \text{Aumento} - \% \text{Inflación}$.
+$\Delta \text{Poder Adquisitivo} \approx \% \text{Aumento} - \% \text{Inflación}$
+
 3. ¿Qué ocurrió con la capacidad de compra del trabajador? Justifique.
 
 ---
